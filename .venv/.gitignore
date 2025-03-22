@@ -3,7 +3,7 @@ env/
 venv/
 webdriver_manager/
 
-pycache/
+__pycache__/
 *.py[cod]
 *.pyo
 
