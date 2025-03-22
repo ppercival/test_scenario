@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad304dce-14c1-4001-97b1-cdfc8b5785f4" name="Changes" comment="" />
+    <list default="true" id="ad304dce-14c1-4001-97b1-cdfc8b5785f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/sbis_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/tensor_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/downloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/getting_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_google.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_scenario_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_scenario_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_scenario_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_scrolling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2uVoAuPo1ddlHkGDOyODTdnQPMd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,10 +48,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_downloading.py.executor": "Run",
+    "Python tests.Python tests in test_getting_size.py.executor": "Run",
+    "Python tests.Python tests in test_google.py.executor": "Run",
+    "Python tests.Python tests in test_scrolling.py.executor": "Run",
+    "Python.downloading.executor": "Run",
+    "Python.getting_size.executor": "Run",
+    "Python.sbis_page.executor": "Run",
+    "Python.tensor_page.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects_c\test_scenario\tests" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
